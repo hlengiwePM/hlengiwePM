@@ -1,8 +1,7 @@
-HI, THERE IAM HLENGIWE NKOSI 
-About Me
- 🎓 Final-year ICT student at Sol Plaatje University
-💻 Aspiring Software Developer
-🔍 Exploring Full Stack Development, Cybersecurity, Business & Data Analytics
+HI, THERE IAM HLENGIWE NKOSI </br>
+About Me </br>
+ 🎓 Final-year ICT student at Sol Plaatje University </br>
+🔍 Currently Exploring Full Stack Development, Cybersecurity, Business & Data Analytics </br>
 🌍 Based in South Africa
 
 Tech Stack
@@ -13,7 +12,7 @@ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Connect with Me
+Connect with Me </br>
 LinkedIn: www.linkedin.com/in/hlengiwe-nkosi21
 Email: hlengiwepatience70@gmail.com
 
