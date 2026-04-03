@@ -13,6 +13,6 @@ Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 Connect with Me </br>
-LinkedIn: www.linkedin.com/in/hlengiwe-nkosi21
+LinkedIn: www.linkedin.com/in/hlengiwe-nkosi21 </br>
 Email: hlengiwepatience70@gmail.com
 
